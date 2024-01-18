@@ -5,3 +5,5 @@ This repo contains the following implementations of machine learning algorithms 
 * K means clustering
 * multivariate linear regression
 * PCA - principal component analysis
+* Nearest Neighbours
+* Logistics regression
